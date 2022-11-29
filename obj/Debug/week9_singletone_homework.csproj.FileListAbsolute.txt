@@ -1,0 +1,8 @@
+C:\Users\97252\source\repos\week9_singletone_homework\week9_singletone_homework\bin\Debug\week9_singletone_homework.exe.config
+C:\Users\97252\source\repos\week9_singletone_homework\week9_singletone_homework\bin\Debug\week9_singletone_homework.exe
+C:\Users\97252\source\repos\week9_singletone_homework\week9_singletone_homework\bin\Debug\week9_singletone_homework.pdb
+C:\Users\97252\source\repos\week9_singletone_homework\week9_singletone_homework\obj\Debug\week9_singletone_homework.csproj.AssemblyReference.cache
+C:\Users\97252\source\repos\week9_singletone_homework\week9_singletone_homework\obj\Debug\week9_singletone_homework.csproj.SuggestedBindingRedirects.cache
+C:\Users\97252\source\repos\week9_singletone_homework\week9_singletone_homework\obj\Debug\week9_singletone_homework.csproj.CoreCompileInputs.cache
+C:\Users\97252\source\repos\week9_singletone_homework\week9_singletone_homework\obj\Debug\week9_singletone_homework.exe
+C:\Users\97252\source\repos\week9_singletone_homework\week9_singletone_homework\obj\Debug\week9_singletone_homework.pdb
